@@ -1,16 +1,18 @@
-Project Exporter v1.0
-Eureka
+Project Exporter v1.1
+
+
+Based on V1.0 by Eureka
 eureka@dbmail.com
 
 The Project Exporter handles exporting project plans from Web2project into 
 other tools.  At present, the following tools are supported for export:
-*  Microsoft Project 2003 and earlier;
+*  Microsoft Project 2010 ;
 
 COMPATIBLE VERSIONS
 
 =====================================
 
-*  This module is comptatible with web2project 2.2 and ealier
+*  This module is comptatible with web2project 3.0 and later
 
 KNOWN/PREVIOUS ISSUES
 
